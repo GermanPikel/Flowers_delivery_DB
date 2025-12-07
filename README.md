@@ -1,2 +1,6 @@
-# Flowers_delivery_DB
-PostgreSQL DB schema and some queries
+# База данных PostgreSQL для сервиса по доставке цветов.
+
+
+```flowers_delivery_schema.sql``` - схема базы данных, добавление данных в таблицы;
+
+```flowers_delivery_queries.sql``` - запросы к базе данных и (не)материализованные представления.
